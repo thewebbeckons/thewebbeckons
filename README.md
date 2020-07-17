@@ -1,7 +1,7 @@
 ### Hi there 👋,
 ### My name is Jesse!
 
-🔭I'm currently working on...
+🔭 I'm currently working on...
 - Covid PWA (with NuxtJS)
 - Touch Catalog PWA (VueJS & Storyblok)
 - Touch Directory PWA (NuxtJS & Firestore)
@@ -17,6 +17,7 @@
 - Basically anything!
 
 🤔 I’m looking for work!
+
 📫 How to reach me: jet.beck86@gmail.com
 
 😄 Pronouns: He/Him
