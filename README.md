@@ -15,6 +15,8 @@
 👯 I’m looking to collaborate on ...
 - Basically anything!
 
+📫 How to reach me: jet.beck86@gmail.com
+
 😄 Pronouns: He/Him
 <!--
 **thewebbeckons/thewebbeckons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
