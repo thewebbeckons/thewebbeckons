@@ -5,6 +5,7 @@
 - Covid PWA (with NuxtJS)
 - Touch Catalog PWA (VueJS & Storyblok)
 - Touch Directory PWA (NuxtJS & Firestore)
+- WoW Guild Site (NuxtJS & Headless WordPress)
 
 🌱 I’m currently learning ... 
 - VueJS
@@ -15,6 +16,7 @@
 👯 I’m looking to collaborate on ...
 - Basically anything!
 
+🤔 I’m looking for work!
 📫 How to reach me: jet.beck86@gmail.com
 
 😄 Pronouns: He/Him
