@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi there 👋,
+### My Name is Jesse!
 
+🔭I'm currently working on...
+- Covid PWA (with NuxtJS)
+- Touch Catalog PWA (VueJS & Storyblok)
+- Touch Directory PWA (NuxtJS & Firestore)
+
+🌱 I’m currently learning ... 
+- VueJS
+- Laravel
+- NuxtJS
+- ReactJS
+
+👯 I’m looking to collaborate on ...
+- Basically anything!
+
+😄 Pronouns: He/Him
 <!--
 **thewebbeckons/thewebbeckons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
