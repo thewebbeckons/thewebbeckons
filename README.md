@@ -3,9 +3,9 @@
 
 🔭 I'm currently working on...
 - Covid PWA (with NuxtJS)
-- Touch Catalog PWA (VueJS & Prismic.io)
-- Touch Directory PWA (NuxtJS & Firestore)
-- WoW Guild Site (NuxtJS & Headless WordPress)
+- Product Catalog (NuxtJS & Headless WordPress)
+- Building Directory PWA (NuxtJS & Firestore)
+- WoW Guild Site (WordPress)
 
 🌱 I’m currently learning ... 
 - VueJS
