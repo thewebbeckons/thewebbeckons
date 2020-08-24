@@ -1,5 +1,4 @@
-### Hi there 👋,
-### My name is Jesse!
+### Hi there 👋, my name is Jesse!
 
 🔭 I'm currently working on...
 - Covid PWA (with NuxtJS)
