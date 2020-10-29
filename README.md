@@ -2,8 +2,8 @@
 
 🔭 I'm currently working on...
 - Covid PWA (with NuxtJS)
-- Product Catalog (NuxtJS & Headless WordPress)
-- Building Directory PWA (NuxtJS & Firebase)
+- eCommerce JAMStack (NuxtJS)
+- Building Directory Application (VueJS & Firebase)
 - WoW Guild Site (WordPress)
 
 🌱 I’m currently learning ... 
