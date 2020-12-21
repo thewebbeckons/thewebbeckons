@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is Jesse!
 
 🔭 I'm currently working on...
-- Covid PWA (with NuxtJS)
-- eCommerce JAMStack (NuxtJS)
-- Building Directory Application (VueJS & Firebase)
-- WoW Guild Site (WordPress)
+- Habit Tracker PWA (with NuxtJS)
+- Product Catalog (NuxtJS)
+- WoW Guild Plugin (WordPress)
 
 🌱 I’m currently learning ... 
 - VueJS
