@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jesse!
 
 🔭 I'm currently working on...
-- Habit Tracker PWA (with NuxtJS)
+- Habit Tracker PWA (with IonicJS)
 - Product Catalog (NuxtJS)
 - WoW Guild Plugin (WordPress)
 
