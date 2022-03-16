@@ -14,6 +14,6 @@
 👯 I’m looking to collaborate on ...
 - Basically anything!
 
-📫 How to reach me: jet.beck86@gmail.com
+📫 How to reach me: jet.beck86@outlook.com
 
 😄 Pronouns: He/Him
