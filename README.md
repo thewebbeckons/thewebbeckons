@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jesse!
 
 🔭 I'm currently working on...
-- Subscription Tracker (with NuxtJS)
+- Planning Poker (with NuxtJS/Supabase)
 - Personal Website (NuxtJS)
 - WoW Guild Website (NuxtJS)
 
@@ -9,4 +9,5 @@
 - Blazor
 - NuxtJS
 - Prismic.io
+- Supabase
 
